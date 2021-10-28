@@ -16,6 +16,9 @@ int main() {
 		line(400,400,400,200);
 		line(200,200,400,200);
 
+
+
+		rectangle(400,50,500,100);
 		getch();
 		closegraph();
 		return 0;
