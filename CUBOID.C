@@ -15,8 +15,8 @@ int main() {
        	line(0,200,100,300);
        	line(200,200,300,300);
 		
-		getch();
-		closegraph();
-		return 0;
+	getch();
+	closegraph();
+	return 0;
 
 }
