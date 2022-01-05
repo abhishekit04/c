@@ -1,4 +1,3 @@
-//pass address as function arrugument
  
 #include<stdio.h>
 
