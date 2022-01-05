@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main () {
+	
 	int arr[2] [3] [4];  //24
 	int i,j,k;
 	for(i=0;i<2;i++){
